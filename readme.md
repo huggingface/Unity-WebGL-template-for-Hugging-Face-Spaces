@@ -9,8 +9,9 @@ This template is based on the work of [greggman](https://greggman.github.io/bett
 
 ## Instructions
 - Download the Unity Package and place it into your project.
-- In `Edit> Project Settings > Player`, in the WebGL tab under *Resolution and Presentation* pick "Hugging Face" template.
-<img src="./assets/images/screenshot.jpg" alt="Snowball Fight"/>
+- In `Edit> Project Settings > Player`, in the WebGL tab under *Resolution and Presentation* pick "Hugging Face" template. <img src="./assets/images/screenshot.jpg" alt="Snowball Fight"/>
 - You can change the loading logo in `Assets/WebGLTemplates/Hugging Face/logo.png`
+
+
 
 
